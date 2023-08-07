@@ -1,0 +1,39 @@
+{
+    "tutorialElements": [
+      {
+        "text": "Nice to see you here! Let's get started!",
+        "key1Value": "",
+        "key2Value": ""
+      },
+      {
+        "text": "When our young character woke up, he found himself here. He does not remember how he came here, but vaguely remembers he needs to find a flag to get out. We need to guide him.\n\nUse these keys to move left or right:",
+        "key1Value": "A",
+        "key2Value": "D"
+      },
+      {
+        "text": "You can jump with either W key or space button. You can also perform a double jump!",
+        "key1Value": "W",
+        "key2Value": "_"
+      },
+      {
+        "text": "Oh, there is a trap! Do not touch it, otherwise it is going to hurt you!",
+        "key1Value": "",
+        "key2Value": ""
+      },
+      {
+        "text": "There is a ring! You can throw a rope, with a hook, and swing around the ring to jump across the gap!\nUse the up arrow key to throw or disconnect the hook. The character will throw it to the closest ring, if it is close enough!",
+        "key1Value": "↑",
+        "key2Value": ""
+      },
+      {
+        "text": "Oh, there is an enemy! Be careful, it is going to shoot you! You can use your shield by pressing the left or the right arrow keys depending on the direction you want.\nA shield will reflect the bullet, so you can defeat the enemy by using your shield.\nYou can use your shield for a limited time and then you have to wait for some time.\nEscape from it and try to use your shield!",
+        "key1Value": "←",
+        "key2Value": "→"
+      },
+      {
+        "text": "Finally you found the flag. You know what to do and can continue your journey. Good luck!",
+        "key1Value": "",
+        "key2Value": ""
+      }
+    ]
+  }
